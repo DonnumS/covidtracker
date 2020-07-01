@@ -1,3 +1,15 @@
+![alt text](https://github.com/donnums/covidtracker/src/images/covid.png "Logo")
+
+
+Covid tracker app made with react made by following [Javascript Mastery's tutorial](https://www.youtube.com/watch?v=khJlrj3Y6Ls)
+
+Uses Material UI, Chart.js, React Hooks and API fetching,
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
